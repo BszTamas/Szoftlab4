@@ -1,2 +1,2 @@
 # Szoftlab4
-Szoftverlabor 4 házi
+Szoftverlabor 4 nagyházi
